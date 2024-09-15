@@ -1,0 +1,27 @@
+.badge {
+  display: flex;
+  align-items: center;
+  border-radius: 4px;
+  color: white;
+  font-weight: bold;
+}
+
+.large {
+  padding: 8px 16px;
+}
+
+.small {
+  padding: 4px 8px;
+}
+
+.yellow {
+  background-color: #f9c74f;
+}
+
+.gray {
+  background-color: #6c757d;
+}
+
+.icon {
+  margin-right: 8px;
+}

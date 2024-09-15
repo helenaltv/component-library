@@ -1,0 +1,49 @@
+.header {
+  background-color: #f8f8f8;
+  padding: 16px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.logoLink {
+  display: inline-block;
+}
+
+.logo {
+  width: 60px;
+}
+
+.nav {
+  display: flex;
+}
+
+.navList {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.navItem {
+  margin-left: 20px;
+}
+
+.navLink {
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navLink:hover {
+  color: #007bff;
+}
+
+.githubIcon {
+  margin-right: 5px;
+}
